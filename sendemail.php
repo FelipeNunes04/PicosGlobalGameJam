@@ -13,7 +13,7 @@ if($meuPost){
     $assunto = $json->assunto;
     $assunto = "Edifpi - ".$assunto;
     $mensagem = $json->mensagem;
-    $to =  "aislanrafael@ifpi.edu.br";
+    $to =  "jaderxnet@gmail.com";
 
     $message = "
     <html>

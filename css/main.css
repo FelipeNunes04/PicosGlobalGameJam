@@ -114,7 +114,7 @@ h2 {
 }
 
 .navbar-right {
-  background-color: #3CB371;
+  background-color: #75aadb;
   padding:0 95px 0 0;
   opacity: .9
 }
@@ -131,13 +131,13 @@ h2 {
 .navbar-right li a:hover, 
 .navbar-right li a:focus,  
 .navbar-right .active a {
-  background-color: #000;
+  background-color: #3b2b16;
   color: #fff;
 }
 
 
 .fixed-menu {
-  background-color:#3CB371;
+  background-color:#75aadb;
   position: fixed;
   opacity: .9;
   top: 0;
@@ -188,7 +188,7 @@ h2 {
 
 #main-slider 
 .carousel-caption {
-  background: none repeat scroll 0 0 #000000;
+  background: none repeat scroll 0 0 #3b2b16;
   bottom: 14%;
   float: left;
   left: 0;
@@ -654,7 +654,7 @@ h2 {
 **************************/
 
 .contact-section {
-  background-color: #f7ab24;
+  background-color: #a27f51;
   background-position:60% 0;
   background-size:contain;
   background-repeat:no-repeat;  
@@ -735,7 +735,7 @@ h2 {
 **************************/
 
 #footer {
-  background-color: #212121;
+  background-color: #3b2b16;
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;

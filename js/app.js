@@ -1,1 +1,1 @@
-var app = angular.module('countdown', [])
+var app = angular.module('picosGameJam', [])
