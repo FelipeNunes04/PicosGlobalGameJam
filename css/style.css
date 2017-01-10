@@ -1,0 +1,110 @@
+.carousel-caption{
+	bottom:0% !important;
+}
+.logo{
+	margin: 40px 20px 20px 30px;
+}
+.edifpi{
+	top: 0;
+	width: 50%;
+}
+.edifpi img {
+  padding-top: 3%;
+}
+.indent{
+	text-indent: 25px !important;
+}
+#comissoes{
+
+	position: relative;  
+	width: 100%;
+}
+#comissoes .btn-primary {
+  background-color: #137c61;
+  color: #FFF;
+  border: none;
+  margin-top: 3px;
+  border-radius: 5px;
+}
+#comissoes .btn-primary:hover {
+  background-color: #126d55
+}
+#slide-minicursos{
+	width: 100%;
+}
+#palestras {
+  position: relative;  
+  width: 100%;
+}
+
+#palestras h2 {
+  color: #000;
+  font-size: 36px;
+  font-weight: 300;
+  margin-bottom: 40px;
+  margin-top: 70px;
+  text-transform: uppercase;
+}
+#palestras a {
+  margin-bottom: 20px;
+}
+#startups {
+ 
+  position: relative;  
+  width: 100%;
+}
+#startups h2 {
+  color: #000;
+  font-size: 36px;
+  font-weight: 300;
+  margin-bottom: 40px;
+  margin-top: 70px;
+  text-transform: uppercase;
+}
+
+#sponsor{
+	min-height: 400px !important;
+}
+#contact-section .btn-primary {
+	margin-bottom: 20px;
+
+}
+.heading{
+	margin-top: 60px;
+	margin-bottom: 50px;
+}
+.img-modal{
+	margin: 0 auto;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+.modal-body .text-primary{
+	color: #000;
+}
+@media (max-width: 479px) {
+	#home {
+    margin-top: 15.5%;
+  }
+  #img{
+  	width: 100%;
+  }
+  .edifpi{
+		display: none;
+	}
+	.about-content h2{
+		text-align: center;
+	}
+}
+
+.img{
+  max-width: 300px;
+  height: auto;
+}
+
+.ear-piece{
+  margin-left: -20px;
+}
+#logo-ifpi {
+  float: none;
+  margin: 100px auto;
+}
